@@ -1,4 +1,4 @@
-<h3 align="left"> Hi there, I'm Kseniya 👋</h1>
+<h2 align="left"> Hi there, I'm Kseniya 👋</h1>
 <h3 align="left"> Junior iOS Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.maduraisoftwares.com/assets/images/madurai/ui-ux-design.gif">
 
