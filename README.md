@@ -8,7 +8,7 @@
 
 ⚫️ Ask me about Swift, blockchain, metaverse
 
-⚫️ How to reach me kseniyafedotova0001@mail.co
+⚫️ How to reach me kseniyafedotova0001@gmail.com
 
 ⚫️ Fun fact: I used to want to be an astronaut
 
